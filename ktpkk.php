@@ -1,7 +1,7 @@
 #!/usr/bin/php
 <?php
 error_reporting(0);
-require 'Enal.php';
+require 'gusti.php';
 echo $cln;
 system("clear");
 kkktp_banner();
