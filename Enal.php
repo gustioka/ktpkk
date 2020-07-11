@@ -33,8 +33,8 @@ function kkktp_banner(){
   ███   ▀█▀    ▄████▀    ▄████▀                  ███   ▀█▀   ███   ▀█▀ 
   ▀                                                          ▀         
 
- ║ Coded by:  ./Enal Alfayahdi     ║ ║ Youtube  : Alfayahdi Channel   ║
- ║ Team : NewbieBerkelas ║ ║ Whatsapp : 0852-0040-0832  ║     					  
+ ║ Coded by:  ./Gusti Oka     ║ ║ Youtube  : Gusti Oka MD   ║
+ ║ Team : Baby Al ║ ║ Whatsapp : Tidak Ada  ║     					  
   \n";
 }
 ?> 
